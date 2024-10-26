@@ -45,7 +45,7 @@
 <a href="https://vk.com/id371910099" target="_blank">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVI6ohgsy0xNcaYXKshDRUKjR6c_ecS7wmMA&s alt=vk style="width: 5%" />
 </a>
-<a href=https://discord.com target="_blank">
+<a href=https://discordapp.com/users/1293956899573862541/ target="_blank">
 <img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 </div>  
