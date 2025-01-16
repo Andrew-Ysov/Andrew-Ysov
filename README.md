@@ -41,6 +41,15 @@
 --->
 <br/>  
 
+## Библитеки с которыми я работал: 
+os, shutil, csv, email, smtplib, requests, json, bs4, sqlite3, pytubefix, moviepy, telebot, telethon, asyncio
+
+
+<br/>  
+
+
+
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/destracthioner?theme=dark)
 
